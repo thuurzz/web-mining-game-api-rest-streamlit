@@ -12,6 +12,10 @@ Arthur Vinicius Santos Silva RA: 1903365
 ## Como rodar o projeto
 
 ```shell
+  pip install -r requirements.txt
+```
+
+```shell
   python3 api-flask.py
 ```
 
