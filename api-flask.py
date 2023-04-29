@@ -4,6 +4,8 @@ import json
 from datetime import datetime
 import pytz
 
+# Arthur Vinicius Santos Silva RA: 1903365
+
 app = Flask(__name__)
 
 
